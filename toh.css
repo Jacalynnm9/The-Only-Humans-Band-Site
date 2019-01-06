@@ -49,7 +49,7 @@ button a:hover {
 }
 
 button a:visited {
-  color: white;
+  color: white !important;
 }
 
 /* nav */

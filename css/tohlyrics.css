@@ -114,6 +114,11 @@ img {
 
 /*--- MEDIA QUERIES! ---*/
 @media screen and (max-width: 800px) {
+  img.lyrics-img{
+    display: block;
+    width: 70%;
+    margin: 0 auto;
+  }
   .nav ul {
     padding-bottom: 3%;
   }
